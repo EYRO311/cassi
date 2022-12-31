@@ -62,19 +62,18 @@
     }
     .contenedor figure .capa p{
         color: #fff;
-        font-size: 268%;
+        font-size: 228%;
         line-height: 1.5;
         width: 100%;
         max-width: 70%;
         margin: auto;
         font-family: cursive;
     }
-    .contenedor figure .capa a{
+    .contenedor figure .capa h3{
         color: #fff;
-        font-size: 108%;
+        font-size: 228%;
         line-height: 1.5;
         width: 100%;
         max-width: 70%;
-        margin: auto;
-        font-family: cursive;
+        margin: auto;   
     }
